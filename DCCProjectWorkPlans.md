@@ -34,10 +34,11 @@ The CFDE-CC uses a combination of Github and Zenhub for project management, and 
 
 [Appendix](#Appendix)
 - [Deliverable Evaluation Modes](#Deliverable-Evaluation-Modes)
-    -[Evaluation Mode: Peer-to-peer](#Evaluation-Mode:-Peer-to-peer)
-    -[Evaluation Mode: Training / Engagement](#Evaluation-Mode:-Training-/-Engagement)
-    -[Evaluation Mode: Project-wide Demo](#Evaluation-Mode:-Project-wide-Demo)
-    -[Evaluation Mode: Requests For Comment](#Evaluation-Mode:-Requests-For-Comment)
+   
+   - [Evaluation Mode: Peer-to-peer](#Evaluation-Mode:-Peer-to-peer)
+   - [Evaluation Mode: Training / Engagement](#Evaluation-Mode:-Training-/-Engagement)
+   - [Evaluation Mode: Project-wide Demo](#Evaluation-Mode:-Project-wide-Demo)
+   - [Evaluation Mode: Requests For Comment](#Evaluation-Mode:-Requests-For-Comment)
 - [Program Goals and Objectives](#Program-Goals-and-Objectives)
    - [Goal 1: Enhance the ability to ask scientific questions across data sets]Goal 1: Enhance the ability to ask scientific questions across data sets
    - [Goal 2: Enable the uptake, reuse, and addition of NIH data and tools from future, current, and ended programs]Goal 2: Enable the uptake, reuse, and addition of NIH data and tools from future, current, and ended programs
@@ -191,19 +192,19 @@ The CFDE tech team employs teleconference demos to display functionality impleme
 *   _Open up a Jupyter notebook and perform a GWAS on the samples_
 
 
-### **Evaluation Mode: Requests For Comment** {#evaluation-mode-requests-for-comment}
+### Evaluation Mode: Requests For Comment
 
 Requests for Comments (RFCs) will build community consensus for standards, policies, and best practices. We have drafted a process for creating CFDE RFCs [described here](https://docs.google.com/document/d/1ubXIY-SYJmkIWyxrCJgIR-ISWrw9H1_3giwer4Hj67A/edit). In general, RFCs will be used to enable individual DCCs, working groups, or teams to propose the adoption of new standards, and promote adoption of conventions (e.g., interfaces, APIs, data models, management schedules, and policies). <span style="text-decoration:underline;">RFCs are not intended to simply broadcast information.</span> They should be utilized in combination with working groups, DCC-to-DCC collaborations, and consortium-wide presentations to generate broad discussion across as many groups as possible. Authors of RFCs are encouraged to coordinate with the CFDE engagement team to encourage others to participate in RFC generation and approval. 
 
 <span style="text-decoration:underline;">RFC evaluation, an example:</span> _A DCC team develops a unique data model associated with imaging files. The data model has been used by the DCC for displays at their site, the investigators have published on the system in a peer-reviewed journal, and they have received CFDE funding to promote use of the data model by other CFDE consortium members. The team generates a draft RFC which describes the merits of the data model, its scope of use, and provides a comparison of their schema to other competing data models. Those researchers perform a pilot study for how data from another DCC could be stored in the model, and hold working group meetings to generate additional text describing the proof of principle for the RFC. The RFC authors then contact the CFDE engagement team, and suggest specific DCCs that could potentially make use of the data model. The authors supply them with a list of questions to be asked of other sites, the engagement team records responses and generates additional comments to be addressed in the RFC. The authors also engage the C2M2 development group for the data model evaluation, and the RFC is also advertised at face-to-face meetings or other CFDE venues. After rounds of revision the RFC is adopted and the authors consult with the relevant project management teams to identify a potential timeline for incorporation into the CFDE ecosystem. _
 
 
-## **Program Goals and Objectives** {#program-goals-and-objectives}
+## Program Goals and Objectives
 
 The four key goals of the CFDE are detailed below:
 
 
-### **Goal 1: Enhance the ability to ask scientific questions across data sets** {#goal-1-enhance-the-ability-to-ask-scientific-questions-across-data-sets}
+### Goal 1: Enhance the ability to ask scientific questions across data sets
 
 
         1a. Novel scientific and clinical research is enabled through cross-data set discovery
@@ -217,8 +218,7 @@ The four key goals of the CFDE are detailed below:
  
 
 
-### **Goal 2: Enable the uptake, reuse, and addition of NIH data and tools from future, current, and ended programs** {#goal-2-enable-the-uptake-reuse-and-addition-of-nih-data-and-tools-from-future-current-and-ended-programs}
-
+### Goal 2: Enable the uptake, reuse, and addition of NIH data and tools from future, current, and ended programs
 
         2a. Data and metadata structure, descriptions, and organization are optimized so data can be found and combined across data sets
 
@@ -237,7 +237,7 @@ The four key goals of the CFDE are detailed below:
  
 
 
-### **Goal 3: Support the storage, sharing, and sustainability of CF data sets** {#goal-3-support-the-storage-sharing-and-sustainability-of-cf-data-sets}
+### Goal 3: Support the storage, sharing, and sustainability of CF data sets
 
 
         3a. CF data sets are stored and managed in cloud environments to increase availability and accessibility of key data sets
