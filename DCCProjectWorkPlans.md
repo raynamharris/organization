@@ -24,8 +24,7 @@ The CFDE-CC uses a combination of Github and Zenhub for project management, and 
 
 ## Table of Contents
 [Deliverable Creation](#Deliverable-Creation)
-
-[Deliverable Description](#Deliverable-Description)
+- [Deliverable Description](#Deliverable-Description)
 
 [Sub-Epic Creation](#Sub-Epic-Creation)
 
@@ -34,8 +33,7 @@ The CFDE-CC uses a combination of Github and Zenhub for project management, and 
 [Deliverable Change requests](#Deliverable-Change-requests)
 
 [Appendix](#Appendix)
-
-[Deliverable Evaluation Modes](#Deliverable-Evaluation-Modes)
+- [Deliverable Evaluation Modes](#Deliverable-Evaluation-Modes)
 
 [Evaluation Mode: Peer-to-peer](#Evaluation-Mode:-Peer-to-peer)
 
