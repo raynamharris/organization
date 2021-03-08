@@ -32,12 +32,12 @@ The CFDE-CC uses a combination of Github and Zenhub for project management, and 
 
 - [Deliverable Change requests](#Deliverable-Change-requests)
 
-- [Appendix](#Appendix)
+[Appendix](#Appendix)
 
-- [Deliverable Evaluation Modes](#Deliverable-Evaluation-Modes)
-  * [Evaluation Mode: Peer-to-peer](#Evaluation-Mode:-Peer-to-peer)
-  * [Evaluation Mode: Training / Engagement](#Evaluation-Mode:-Training-/-Engagement)
-  * [Evaluation Mode: Project-wide Demo](#Evaluation-Mode:-Project-wide-Demo)
+[Deliverable Evaluation Modes](#Deliverable-Evaluation-Modes)
+  * [Evaluation Mode: Peer-to-peer](##Evaluation-Mode:-Peer-to-peer)
+  * [Evaluation Mode: Training / Engagement](###Evaluation-Mode:-Training-/-Engagement)
+  * [Evaluation Mode: Project-wide Demo](####Evaluation-Mode:-Project-wide-Demo)
   * [Evaluation Mode: Requests For Comment](#Evaluation-Mode:-Requests-For-Comment)
 
 [Program Goals and Objectives](#Program-Goals-and-Objectives)
