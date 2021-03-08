@@ -25,7 +25,7 @@ The CFDE-CC uses a combination of Github and Zenhub for project management, and 
 ## Table of Contents
 [Deliverable Creation](#Deliverable-Creation)
 - [Deliverable Description](#Deliverable-Description)
-- 
+
 [Sub-Epic Creation](#Sub-Epic-Creation)
 
 [Workplan Submission and Approval](#Workplan-Submission-and-Approval)
@@ -37,8 +37,10 @@ The CFDE-CC uses a combination of Github and Zenhub for project management, and 
 [Deliverable Evaluation Modes](#Deliverable-Evaluation-Modes)
 
 [Evaluation Mode: Peer-to-peer](#Evaluation-Mode:-Peer-to-peer)
+[Evaluation Mode: Peer-to-peer](#Evaluation-Mode:-Peer-to-peer)
+- [Evaluation Mode: Peer-to-peer](#Evaluation-Mode:-Peer-to-peer)
 
-[Evaluation Mode: Training / Engagement](#Evaluation-Mode:-Training-/-Engageme
+[Evaluation Mode: Training / Engagement](#Evaluation-Mode:-Training-/-Engagement)
 
 [Evaluation Mode: Project-wide Demo](#Evaluation-Mode:-Project-wide-Demo)
 
@@ -158,17 +160,11 @@ If you need to change the scope or timing of a deliverable:
 *   Your NIH PO may have follow up questions, which they will post as a comment in that issue, or they may approve the change
 *   The CFDE-CC will update the integrated master schedule when/if changes are approved
 
-
-# 
-
-
 # Appendix 
-
 
 ## Deliverable Evaluation Modes
 
 For each of your deliverables you will need to describe how to confirm that your deliverable has been completed. In general completed evaluation is expected to result in some form a short report, or a demonstration, and will always be recorded in the CFDE project tracking system upon completion. Several modes of evaluation are available for you to request, and you can use a combination of modes for evaluation. For example in the development of a new analysis tool, you could both peer-to-peer as well as training / engagement to evaluate delivery of that system.  Modes of evaluation are the following: 
-
 
 ### Evaluation Mode: Peer-to-peer 
 
@@ -176,21 +172,17 @@ The CFDE proposals included many plans for joint development across DCCs. These 
 
 <span style="text-decoration:underline;">Peer-to-peer evaluation, an example</span>: _two DCCs proposed performing harmonization of data between sites. The relevant groups identify the metadata types that would be used for the harmonization exercise, agree on the scope of activities, create a joint schedule for completion, and provide use-case examples of what users should be able to achieve after the data harmonization is complete. They also schedule a date for completion of this activity. Ideally this would be coordinated with submitting the harmonized data to the CFDE portal. The groups jointly meet for deliverable evaluation to test if the expected outcomes for end-users were achieved. The DCCs would complete a jointly authored report, and submit the report into the CFDE-CC management site. _
 
-
 ### Evaluation Mode: Training / Engagement
 
 The CFDE Training Coordination Center (TCC) has an engagement team to on-board new users, facilitate user transitions to cloud-based infrastructure, and minimize strain on tech support. The TCC also provides training, which serves as an opportunity to demonstrate the capabilities of new projects to unfamiliar audiences, and also presents opportunities for early user feedback to support ongoing development of tools and infrastructure. The TCC will serve as a central point of contact for training resources, develop curricula, provide training, and workshop administration. Members of the TCC can also supply qualitative and quantitative evaluation of your deliverables. The TCC can do this in a variety of ways. The TCC has staff with post-doctoral training who can test research-grade software or create tutorial videos of tools you have created.
 
 <span style="text-decoration:underline;">Training / engagement evaluation, an example</span>: _the TCC team will be particularly useful for integration testing of two previously separate systems. Consider a scenario where two DCCs have data that would be useful to combine and use for analysis. For example one site could be hosting expression data, while another site had metabolomic information, and both DCCs had data from common body sites. Both sites proposed performing some harmonization effort to simplify finding data across common anatomical terms, and developed web-based analysis tools that would enable users to the relevant datasets in context of each other. For evaluation, both sites had performed peer-to-peer evaluation of the harmonized data, but have asked the TCC to perform integration testing. The DCCs could provide a README file for the TCC team to follow in order to test the relevant tools. The TCC could then test the analysis tools, generate a jupyter notebook and video documenting use of the tools, and provide feedback to the DCC engineers in cases where bugs prevented their team from completing the testing exercise as well as useful suggestions to improve the documentation, tool or both. _
 
-
 ### Evaluation Mode: Project-wide Demo
 
 The CFDE tech team employs teleconference demos to display functionality implemented in executable form, usually by walking participants through a web-based presentation. In the coming months we will synchronize the activities of the DCCs CFDE projects using "all hands", project-wide demos, during teleconference sessions held roughly 2 times a year. Project wide demos will serve as useful touch points where the activities of multiple teams roll up into a complete set of deliverables. Demos will be used to confirm if requirements associated with relevant deliverables have been met, and to confirm if the demonstrated activities match those described in documented CFDE use cases. As the demos are scheduled well in advance, these sessions serve as common rallying points for demonstrating what the CFDE has achieved. Demos also increase awareness of project components across all of the CFDE consortium and will be useful in promoting integration testing across federated systems. 
 
 <span style="text-decoration:underline;">Project wide demo evaluation, an example:</span> _Generation of a virtual cohort. Prior to the demo, multiple DCCs will have generated asset inventories containing patient metadata, and submitted that information using the C2M2 data model into the CFDE portal. The demo then tests if an end user is able to define a virtual cohort using the CFDE portal to identify a subset of data for an analytic workflow deployed on a system such as Cavatica. Steps for this activity would include:_
-
-
 
 *   _Review of the data contents at the portal to confirm submission fidelity;_
 *   _Exploration of data collections using persistent identifiers;_
@@ -200,18 +192,15 @@ The CFDE tech team employs teleconference demos to display functionality impleme
 *   _Push the manifest to a workspace such as Cavatica;_
 *   _Open up a Jupyter notebook and perform a GWAS on the samples_
 
-
 ### Evaluation Mode: Requests For Comment
 
 Requests for Comments (RFCs) will build community consensus for standards, policies, and best practices. We have drafted a process for creating CFDE RFCs [described here](https://docs.google.com/document/d/1ubXIY-SYJmkIWyxrCJgIR-ISWrw9H1_3giwer4Hj67A/edit). In general, RFCs will be used to enable individual DCCs, working groups, or teams to propose the adoption of new standards, and promote adoption of conventions (e.g., interfaces, APIs, data models, management schedules, and policies). <span style="text-decoration:underline;">RFCs are not intended to simply broadcast information.</span> They should be utilized in combination with working groups, DCC-to-DCC collaborations, and consortium-wide presentations to generate broad discussion across as many groups as possible. Authors of RFCs are encouraged to coordinate with the CFDE engagement team to encourage others to participate in RFC generation and approval. 
 
 <span style="text-decoration:underline;">RFC evaluation, an example:</span> _A DCC team develops a unique data model associated with imaging files. The data model has been used by the DCC for displays at their site, the investigators have published on the system in a peer-reviewed journal, and they have received CFDE funding to promote use of the data model by other CFDE consortium members. The team generates a draft RFC which describes the merits of the data model, its scope of use, and provides a comparison of their schema to other competing data models. Those researchers perform a pilot study for how data from another DCC could be stored in the model, and hold working group meetings to generate additional text describing the proof of principle for the RFC. The RFC authors then contact the CFDE engagement team, and suggest specific DCCs that could potentially make use of the data model. The authors supply them with a list of questions to be asked of other sites, the engagement team records responses and generates additional comments to be addressed in the RFC. The authors also engage the C2M2 development group for the data model evaluation, and the RFC is also advertised at face-to-face meetings or other CFDE venues. After rounds of revision the RFC is adopted and the authors consult with the relevant project management teams to identify a potential timeline for incorporation into the CFDE ecosystem. _
 
-
 ## Program Goals and Objectives
 
 The four key goals of the CFDE are detailed below:
-
 
 ### Goal 1: Enhance the ability to ask scientific questions across data sets
 
@@ -223,9 +212,6 @@ The four key goals of the CFDE are detailed below:
 
 
         1c. (Eval only) CFDE activities are having a positive impact on CF DCCs’ ability to manage and use data
-
- 
-
 
 ### Goal 2: Enable the uptake, reuse, and addition of NIH data and tools from future, current, and ended programs
 
@@ -243,9 +229,6 @@ The four key goals of the CFDE are detailed below:
 
         2e. CF DCCs and their users are engaged in the design of self-governed standards applicable to existing and future CF data programs
 
- 
-
-
 ### Goal 3: Support the storage, sharing, and sustainability of CF data sets
 
 
@@ -262,9 +245,6 @@ The four key goals of the CFDE are detailed below:
 
 
         3d. Practices and policies that can accommodate new CF programs are adopted
-
- 
-
 
 ### Goal 4: Provide training that maximizes a scientist’s ability to upload data and use CF data and other resources
 
