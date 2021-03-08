@@ -34,11 +34,10 @@ The CFDE-CC uses a combination of Github and Zenhub for project management, and 
 
 [Appendix](#Appendix)
 - [Deliverable Evaluation Modes](#Deliverable-Evaluation-Modes)
-   
-   - [Evaluation Mode: Peer-to-peer](#Evaluation-Mode:-Peer-to-peer)
-   - [Evaluation Mode: Training / Engagement](#Evaluation-Mode:-Training-/-Engagement)
-   - [Evaluation Mode: Project-wide Demo](#Evaluation-Mode:-Project-wide-Demo)
-   - [Evaluation Mode: Requests For Comment](#Evaluation-Mode:-Requests-For-Comment)
+  - [Evaluation Mode: Peer-to-peer](#Evaluation-Mode:-Peer-to-peer)
+ - [Evaluation Mode: Training / Engagement](#Evaluation-Mode:-Training-/-Engageme
+- [Evaluation Mode: Project-wide Demo](#Evaluation-Mode:-Project-wide-Demo)
+- [Evaluation Mode: Requests For Comment](#Evaluation-Mode:-Requests-For-Comment)
 - [Program Goals and Objectives](#Program-Goals-and-Objectives)
    - [Goal 1: Enhance the ability to ask scientific questions across data sets](#Goal-1:-Enhance-the-ability-to-ask-scientific-questions-across-data-sets)
    - [Goal 2: Enable the uptake, reuse, and addition of NIH data and tools from future, current, and ended programs](#Goal-2:-Enable-the-uptake,-reuse,-and-addition-of-NIH-data-and-tools-from-future,-current,-and-ended-programs)
