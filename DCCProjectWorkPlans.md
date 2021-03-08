@@ -57,7 +57,7 @@ The CFDE-CC uses a combination of Github and Zenhub for project management, and 
 # **Deliverable Creation** {#deliverable-creation}
 
 
-## **Deliverable Description** {#deliverable-description}
+## Deliverable Description
 
 The outcomes in your work plan will primarily be deliverables- specific objects or outcomes that show progress and that are formally submitted to the NIH PO. In our project management system, each deliverable is an individual Github issue that has been made into a Zenhub Epic. Epics can be linked to issues from across repositories in the CFDE Github space, and so allow us to easily traverse through complex multi-DCC projects and easily create combined project management tracking systems.
 
@@ -121,7 +121,7 @@ For each Deliverable, you should create a small (typically 2-5) number of sub-ep
 *   **Risks:** What (if any) objects, ideas, projects, circumstances outside of the CFDE are currently known as potential problems. This is not meant to be exhaustive, but instead to highlight important ones. Think: This will only be done in December if the RAS group has the X service running by October 1st.
 
 
-# **Workplan Submission and Approval** {#workplan-submission-and-approval}
+# Workplan Submission and Approval
 
 Your award’s work plan will need to be final and approved within the first 30 business days. 
 
