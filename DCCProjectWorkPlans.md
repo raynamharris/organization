@@ -11,17 +11,10 @@ Awarded DCCs are expected to manage the details of their deliverables, work plan
 
 The CFDE-CC is responsible for maintaining the CFDE-wide integrated master schedule, and will import DCC project level information into this schedule. The CFDE-CC is responsible for any ‘all-hands’ meetings, periodic demonstration days, and the scheduling and management of project management meetings between the CFDE-CC and individual DCCs. The CFDE-CC also manages a wide variety of infrastructure which is openly available for use by funded DCCs for their individual and joint work. This infrastructure includes enterprise level Github and Google spaces, Slack, and mailing lists, as well as several tools for advertising and promoting DCC work or events, and event registration. 
 
-
-## 
-
-
 ## _CFDE-CC meeting cadence_
-
-
 
 *   The CFDE-CC will organize a meeting between the Coordination center and all funded DCC project managers to meet as a single group at least monthly for a ‘scrum of scrums’ style meeting to check in on progress, blockers and risks. 
 *   The CFDE-CC and each funded DCC will also meet individually at least monthly to check in on any project management related issues. 
-
 
 ## _CFDE-CC Project Management System_
 
@@ -30,32 +23,24 @@ The CFDE-CC uses a combination of Github and Zenhub for project management, and 
 **Process Overview:**
 
 ## Table of Contents
-* [Deliverable Creation](#Deliverable-Creation)
-* [Deliverable Description](#Deliverable-Description)
+[Deliverable Creation](#Deliverable-Creation)
+[Deliverable Description](#Deliverable-Description)
 [Sub-Epic Creation](#Sub-Epic-Creation)
 [Workplan Submission and Approval](#Workplan-Submission-and-Approval)
-[Deliverable Change requests]
-[Appendix]
-[Deliverable Evaluation Modes]
-[Evaluation Mode: Peer-to-peer]
-[Evaluation Mode: Training / Engagement]
-[Evaluation Mode: Project-wide Demo]
-[Evaluation Mode: Requests For Comment]
-[Program Goals and Objectives]
-[Goal 1: Enhance the ability to ask scientific questions across data sets]
-[Goal 2: Enable the uptake, reuse, and addition of NIH data and tools from future, current, and ended programs]
-[Goal 3: Support the storage, sharing, and sustainability of CF data sets]
-
-* [Goal 4: Provide training that maximizes a scientist’s ability to upload data and use CF data and other resources]
-
+[Deliverable Change requests](#Deliverable-Change-requests)
+[Appendix](#Appendix)
+[Deliverable Evaluation Modes](#Deliverable-Evaluation-Modes)
+[Evaluation Mode: Peer-to-peer](#Evaluation-Mode:-Peer-to-peer)
+[Evaluation Mode: Training / Engagement](#Evaluation-Mode:-Training-/-Engagement)
+[Evaluation Mode: Project-wide Demo](#Evaluation-Mode:-Project-wide-Demo)
+[Evaluation Mode: Requests For Comment](#Evaluation-Mode:-Requests-For-Comment)
+[Program Goals and Objectives](#Program-Goals-and-Objectives)
+[Goal 1: Enhance the ability to ask scientific questions across data sets]Goal 1: Enhance the ability to ask scientific questions across data sets
+[Goal 2: Enable the uptake, reuse, and addition of NIH data and tools from future, current, and ended programs]Goal 2: Enable the uptake, reuse, and addition of NIH data and tools from future, current, and ended programs
+[Goal 3: Support the storage, sharing, and sustainability of CF data sets]Goal 3: Support the storage, sharing, and sustainability of CF data sets
 [Goal 4: Provide training that maximizes a scientist’s ability to upload data and use CF data and other resources](#goal-4-provide-training-that-maximizes-a-scientist’s-ability-to-upload-data-and-use-cf-data-and-other-resources)
 
-
-# 
-
-
-# **Deliverable Creation** {#deliverable-creation}
-
+# Deliverable Creation 
 
 ## Deliverable Description
 
@@ -64,8 +49,6 @@ The outcomes in your work plan will primarily be deliverables- specific objects 
 The number of deliverables for a project depends on the length and complexity of the goals, however in an OT award it is best to err on the side of fewer, goal based deliverables, and to stay away from frequent, narrowly specified ones. This is because OT awards typically fund projects that have important goals, but where the specifics of how to implement them are not yet known. However, deliverables must be written up front, and are part of the formal NIH contract. The date, requirements and content of a deliverable can only be changed through negotiation with the NIH PO. Too much detail about uncertain future implementation plans can result in extensive, time-consuming renegotiation of the award if the project needs to change direction.
 
 The text of a deliverable should be brief, but each needs to include the following:
-
-
 
 *   **Unique ID**: Deliverables for a project must be given unique identification numbers for ease of reference. 
     *   If a single larger goal will consist of many, phased deliverables, they should all be subsets of the same number (e.g. CFDE Coordination Center goal 5 consists of deliverables 5.1, 5.2, ...)
@@ -92,8 +75,6 @@ Milestone: 1.2.2.4
 
 POC: &lt;[@sherry-jenkins](https://github.com/sherry-jenkins)>
 
-
-
 *   Short description of deliverable: Establish mechanisms to ensure that metadata for the current and future LINCS datasets can be serialized into the CFDE C2M2. Write the scripts to convert current metadata schemas into frictionless C2M2. Identify asset types which overlap with other CF DCCs. The most reused LINCS data is the data collected via the L1000 assay, a low cost transcriptomics assay. We plan to develop a deep learning model that would make the L1000 data better align with RNA-seq data.
 *   Delivery persistence: The LINCS L1000 data will be provided in a format compatible with RNA-seq; Mapped metadata elements that match LINCS metadata element; Scripts to transform LINCS metadata to support ontologies and dictionaries used by other DCCs.
 *   Ownership: LINCS DCC
@@ -104,7 +85,7 @@ POC: &lt;[@sherry-jenkins](https://github.com/sherry-jenkins)>
 *   Goal and Objective References: 1-3
 
 
-# **Sub-Epic Creation** {#sub-epic-creation}
+# Sub-Epic Creation
 
 For each Deliverable, you should create a small (typically 2-5) number of sub-epics that represent the major chunks of work that will be part of that deliverable. Like Deliverables, these should be stored as Epics in ZenHub, and will eventually be where you collect individual issues to track day to day work. (Epics can be nested). We’re defining ‘major chunk’ as something that is, in itself, a multipart high level process, but is smaller than the Deliverable. One way to imagine the sub-epics is as parts of the collaboration that belong to different teams. This framework makes it simple to cross-assign epics and establish cross-group dependencies. These issues should have many of the same parts as a deliverable:
 
@@ -147,7 +128,7 @@ In addition to looking for the specific information that each deliverable requir
 *   Realistic timeframe
 
 
-# **Deliverable Change requests** {#deliverable-change-requests}
+# Deliverable Change requests
 
 If you need to change the scope or timing of a deliverable:
 
@@ -167,29 +148,29 @@ If you need to change the scope or timing of a deliverable:
 # 
 
 
-# **Appendix** {#appendix}
+# Appendix 
 
 
-## **Deliverable Evaluation Modes** {#deliverable-evaluation-modes}
+## Deliverable Evaluation Modes
 
 For each of your deliverables you will need to describe how to confirm that your deliverable has been completed. In general completed evaluation is expected to result in some form a short report, or a demonstration, and will always be recorded in the CFDE project tracking system upon completion. Several modes of evaluation are available for you to request, and you can use a combination of modes for evaluation. For example in the development of a new analysis tool, you could both peer-to-peer as well as training / engagement to evaluate delivery of that system.  Modes of evaluation are the following: 
 
 
-### **Evaluation Mode: Peer-to-peer ** {#evaluation-mode-peer-to-peer}
+### Evaluation Mode: Peer-to-peer 
 
 The CFDE proposals included many plans for joint development across DCCs. These activities are an important driver for collaboration in the CFDE, and will require mutual agreement between sites for expectations and completion of tasks. Your deliverable description will layout most of the expectations and dependencies, and should also describe how the two DCCs will evaluate completion of your deliverables. Peer-to-peer evaluation can be completed by establishing a date for a demonstration, reviewing if the requirements for your deliverables were achieved, and passing on a report of your success to the CFDE-CC project management system.
 
 <span style="text-decoration:underline;">Peer-to-peer evaluation, an example</span>: _two DCCs proposed performing harmonization of data between sites. The relevant groups identify the metadata types that would be used for the harmonization exercise, agree on the scope of activities, create a joint schedule for completion, and provide use-case examples of what users should be able to achieve after the data harmonization is complete. They also schedule a date for completion of this activity. Ideally this would be coordinated with submitting the harmonized data to the CFDE portal. The groups jointly meet for deliverable evaluation to test if the expected outcomes for end-users were achieved. The DCCs would complete a jointly authored report, and submit the report into the CFDE-CC management site. _
 
 
-### **Evaluation Mode: Training / Engagement** {#evaluation-mode-training-engagement}
+### Evaluation Mode: Training / Engagement
 
 The CFDE Training Coordination Center (TCC) has an engagement team to on-board new users, facilitate user transitions to cloud-based infrastructure, and minimize strain on tech support. The TCC also provides training, which serves as an opportunity to demonstrate the capabilities of new projects to unfamiliar audiences, and also presents opportunities for early user feedback to support ongoing development of tools and infrastructure. The TCC will serve as a central point of contact for training resources, develop curricula, provide training, and workshop administration. Members of the TCC can also supply qualitative and quantitative evaluation of your deliverables. The TCC can do this in a variety of ways. The TCC has staff with post-doctoral training who can test research-grade software or create tutorial videos of tools you have created.
 
 <span style="text-decoration:underline;">Training / engagement evaluation, an example</span>: _the TCC team will be particularly useful for integration testing of two previously separate systems. Consider a scenario where two DCCs have data that would be useful to combine and use for analysis. For example one site could be hosting expression data, while another site had metabolomic information, and both DCCs had data from common body sites. Both sites proposed performing some harmonization effort to simplify finding data across common anatomical terms, and developed web-based analysis tools that would enable users to the relevant datasets in context of each other. For evaluation, both sites had performed peer-to-peer evaluation of the harmonized data, but have asked the TCC to perform integration testing. The DCCs could provide a README file for the TCC team to follow in order to test the relevant tools. The TCC could then test the analysis tools, generate a jupyter notebook and video documenting use of the tools, and provide feedback to the DCC engineers in cases where bugs prevented their team from completing the testing exercise as well as useful suggestions to improve the documentation, tool or both. _
 
 
-### **Evaluation Mode: Project-wide Demo** {#evaluation-mode-project-wide-demo}
+### Evaluation Mode: Project-wide Demo
 
 The CFDE tech team employs teleconference demos to display functionality implemented in executable form, usually by walking participants through a web-based presentation. In the coming months we will synchronize the activities of the DCCs CFDE projects using "all hands", project-wide demos, during teleconference sessions held roughly 2 times a year. Project wide demos will serve as useful touch points where the activities of multiple teams roll up into a complete set of deliverables. Demos will be used to confirm if requirements associated with relevant deliverables have been met, and to confirm if the demonstrated activities match those described in documented CFDE use cases. As the demos are scheduled well in advance, these sessions serve as common rallying points for demonstrating what the CFDE has achieved. Demos also increase awareness of project components across all of the CFDE consortium and will be useful in promoting integration testing across federated systems. 
 
