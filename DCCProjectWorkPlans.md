@@ -38,11 +38,12 @@ The CFDE-CC uses a combination of Github and Zenhub for project management, and 
     - [Evaluation Mode: Training / Engagement](#Evaluation-Mode:-Training-/-Engagement)
     - [Evaluation Mode: Project-wide Demo](#Evaluation-Mode:-Project-wide-Demo)
     - [Evaluation Mode: Requests For Comment](#Evaluation-Mode:-Requests-For-Comment)
+    -
 - [Program Goals and Objectives](#Program-Goals-and-Objectives)
-   -[Goal 1: Enhance the ability to ask scientific questions across data sets]Goal 1: Enhance the ability to ask scientific questions across data sets
-   -[Goal 2: Enable the uptake, reuse, and addition of NIH data and tools from future, current, and ended programs]Goal 2: Enable the uptake, reuse, and addition of NIH data and tools from future, current, and ended programs
-   -[Goal 3: Support the storage, sharing, and sustainability of CF data sets]Goal 3: Support the storage, sharing, and sustainability of CF data sets
-   -[Goal 4: Provide training that maximizes a scientist’s ability to upload data and use CF data and other resources](#goal-4-provide-training-that-maximizes-a-scientist’s-ability-to-upload-data-and-use-cf-data-and-other-resources)
+   - [Goal 1: Enhance the ability to ask scientific questions across data sets]Goal 1: Enhance the ability to ask scientific questions across data sets
+   - [Goal 2: Enable the uptake, reuse, and addition of NIH data and tools from future, current, and ended programs]Goal 2: Enable the uptake, reuse, and addition of NIH data and tools from future, current, and ended programs
+   - [Goal 3: Support the storage, sharing, and sustainability of CF data sets]Goal 3: Support the storage, sharing, and sustainability of CF data sets
+   - [Goal 4: Provide training that maximizes a scientist’s ability to upload data and use CF data and other resources](#goal-4-provide-training-that-maximizes-a-scientist’s-ability-to-upload-data-and-use-cf-data-and-other-resources)
 
 # Deliverable Creation 
 
