@@ -155,12 +155,12 @@ The CFDE tech team employs teleconference demos to display functionality impleme
 
 **Project wide demo evaluation, an example**: *Generation of a virtual cohort. Prior to the demo, multiple DCCs will have generated asset inventories containing patient metadata, and submitted that information using the C2M2 data model into the CFDE portal. The demo then tests if an end user is able to define a virtual cohort using the CFDE portal to identify a subset of data for an analytic workflow deployed on a system such as Cavatica. Steps for this activity would include:*
 
-*   _Review of the data contents at the portal to confirm submission fidelity;
-*   _Exploration of data collections using persistent identifiers;
-*   _Review of findability of clinical studies using terms submitted by the DCCs;
-*   _Identification of a synthetic cohort of subjects based on phenotypic information;
-*   _Generation of a manifest of the cohort using C2M2 and BDBags;
-*   _Push the manifest to a workspace such as Cavatica;
+*   _Review of the data contents at the portal to confirm submission fidelity;_
+*   _Exploration of data collections using persistent identifiers;_
+*   _Review of findability of clinical studies using terms submitted by the DCCs;_
+*   _Identification of a synthetic cohort of subjects based on phenotypic information;_
+*   _Generation of a manifest of the cohort using C2M2 and BDBags;_
+*   _Push the manifest to a workspace such as Cavatica;_
 *   _Open up a Jupyter notebook and perform a GWAS on the samples_
 
 ### Evaluation Mode: Requests For Comment
@@ -177,21 +177,21 @@ The four key goals of the CFDE are detailed below:
   * A standard Authentication/Authorization (AuthN/AuthZ) strategy is implemented to permit appropriate access to and compute on controlled access data
   * (Eval only) CFDE activities are having a positive impact on CF DCCs’ ability to manage and use data
 
-2: **Enable the uptake, reuse, and addition of NIH data and tools from future, current, and ended programs**
+2. **Enable the uptake, reuse, and addition of NIH data and tools from future, current, and ended programs**
   * Data and metadata structure, descriptions, and organization are optimized so data can be found and combined across data sets
   * Common standards, methods, tools, and processes are provided enabling data managers to load, update, maintain and version, and monitor data sets on the cloud
   * Common tools and processes are provided to assess and improve FAIR-ness of data and other digital objects to optimize the query, retrieval, and use
   * A central, externally facing, scalable portal is provided, serving as the directory to all CF data sets and tools, FAIR-ness metrics, use cases, and the like
   * CF DCCs and their users are engaged in the design of self-governed standards applicable to existing and future CF data programs
 
-3: **Support the storage, sharing, and sustainability of CF data sets**
+3. **Support the storage, sharing, and sustainability of CF data sets**
   * CF data sets are stored and managed in cloud environments to increase availability and accessibility of key data sets
   * CF Programs use the STRIDES agreements for storage and compute, leveraging
         pre-paid funding from the CF
   * NIH retains ownership and oversight of data sets after programs have ended
   * Practices and policies that can accommodate new CF programs are adopted
 
-4: **Provide training that maximizes a scientist’s ability to upload data and use CF data and other resources**
+4. **Provide training that maximizes a scientist’s ability to upload data and use CF data and other resources**
   * Training material is provided for researchers to access, analyze and understand the CF data sets and tools provided by CF Programs
   * Use case scenarios are posted to the Data Ecosystem community
   * A Data Ecosystem user guide and site documentation are created and accessible
