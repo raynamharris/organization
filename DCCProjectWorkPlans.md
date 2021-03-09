@@ -154,15 +154,14 @@ The CFDE Training Coordination Center (TCC) has an engagement team to on-board n
 The CFDE tech team employs teleconference demos to display functionality implemented in executable form, usually by walking participants through a web-based presentation. In the coming months we will synchronize the activities of the DCCs CFDE projects using "all hands", project-wide demos, during teleconference sessions held roughly 2 times a year. Project wide demos will serve as useful touch points where the activities of multiple teams roll up into a complete set of deliverables. Demos will be used to confirm if requirements associated with relevant deliverables have been met, and to confirm if the demonstrated activities match those described in documented CFDE use cases. As the demos are scheduled well in advance, these sessions serve as common rallying points for demonstrating what the CFDE has achieved. Demos also increase awareness of project components across all of the CFDE consortium and will be useful in promoting integration testing across federated systems. 
 
 **Project wide demo evaluation, an example**: *Generation of a virtual cohort. Prior to the demo, multiple DCCs will have generated asset inventories containing patient metadata, and submitted that information using the C2M2 data model into the CFDE portal. The demo then tests if an end user is able to define a virtual cohort using the CFDE portal to identify a subset of data for an analytic workflow deployed on a system such as Cavatica. Steps for this activity would include:
-*
 
-*   _Review of the data contents at the portal to confirm submission fidelity;_
-*   _Exploration of data collections using persistent identifiers;_
-*   _Review of findability of clinical studies using terms submitted by the DCCs;_
-*   _Identification of a synthetic cohort of subjects based on phenotypic information;_
-*   _Generation of a manifest of the cohort using C2M2 and BDBags;_
-*   _Push the manifest to a workspace such as Cavatica;_
-*   _Open up a Jupyter notebook and perform a GWAS on the samples_
+*   Review of the data contents at the portal to confirm submission fidelity;
+*   Exploration of data collections using persistent identifiers;
+*   Review of findability of clinical studies using terms submitted by the DCCs;
+*   Identification of a synthetic cohort of subjects based on phenotypic information;
+*   Generation of a manifest of the cohort using C2M2 and BDBags;
+*   Push the manifest to a workspace such as Cavatica;
+*   Open up a Jupyter notebook and perform a GWAS on the samples*
 
 ### Evaluation Mode: Requests For Comment
 Requests for Comments (RFCs) will build community consensus for standards, policies, and best practices. We have drafted a process for creating CFDE RFCs [described here](https://docs.google.com/document/d/1ubXIY-SYJmkIWyxrCJgIR-ISWrw9H1_3giwer4Hj67A/edit). In general, RFCs will be used to enable individual DCCs, working groups, or teams to propose the adoption of new standards, and promote adoption of conventions (e.g., interfaces, APIs, data models, management schedules, and policies). **RFCs are not intended to simply broadcast information.** They should be utilized in combination with working groups, DCC-to-DCC collaborations, and consortium-wide presentations to generate broad discussion across as many groups as possible. Authors of RFCs are encouraged to coordinate with the CFDE engagement team to encourage others to participate in RFC generation and approval. 
@@ -177,18 +176,21 @@ The four key goals of the CFDE are detailed below:
   * Novel scientific and clinical research is enabled through cross-data set discovery
   * A standard Authentication/Authorization (AuthN/AuthZ) strategy is implemented to permit appropriate access to and compute on controlled access data
   * (Eval only) CFDE activities are having a positive impact on CF DCCs’ ability to manage and use data
+
 2: **Enable the uptake, reuse, and addition of NIH data and tools from future, current, and ended programs**
   * Data and metadata structure, descriptions, and organization are optimized so data can be found and combined across data sets
   * Common standards, methods, tools, and processes are provided enabling data managers to load, update, maintain and version, and monitor data sets on the cloud
   * Common tools and processes are provided to assess and improve FAIR-ness of data and other digital objects to optimize the query, retrieval, and use
   * A central, externally facing, scalable portal is provided, serving as the directory to all CF data sets and tools, FAIR-ness metrics, use cases, and the like
   * CF DCCs and their users are engaged in the design of self-governed standards applicable to existing and future CF data programs
+
 3: **Support the storage, sharing, and sustainability of CF data sets**
   * CF data sets are stored and managed in cloud environments to increase availability and accessibility of key data sets
   * CF Programs use the STRIDES agreements for storage and compute, leveraging
         pre-paid funding from the CF
   * NIH retains ownership and oversight of data sets after programs have ended
   * Practices and policies that can accommodate new CF programs are adopted
+
 4: **Provide training that maximizes a scientist’s ability to upload data and use CF data and other resources**
   * Training material is provided for researchers to access, analyze and understand the CF data sets and tools provided by CF Programs
   * Use case scenarios are posted to the Data Ecosystem community
