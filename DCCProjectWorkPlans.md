@@ -18,7 +18,7 @@ The CFDE-CC is responsible for maintaining the CFDE-wide integrated master sched
 
 ## _CFDE-CC Project Management System_
 
-The CFDE-CC uses a combination of Github and Zenhub for project management, and will assist with integrating your plan with the master CFDE schedule. **The following text will walk the reader through the process of creating a project plan that can be integrated with the master system and will fulfill NIH requirements. **
+The CFDE-CC uses a combination of Github and Zenhub for project management, and will assist with integrating your plan with the master CFDE schedule. **The following text will walk the reader through the process of creating a project plan that can be integrated with the master system and will fulfill NIH requirements.**
 
 **Process Overview:**
 
@@ -172,13 +172,12 @@ Requests for Comments (RFCs) will build community consensus for standards, polic
 
 The four key goals of the CFDE are detailed below:
 
-### Goal 1: Enhance the ability to ask scientific questions across data sets
+1. **Enhance the ability to ask scientific questions across data sets**
+   * Novel scientific and clinical research is enabled through cross-data set discovery
+   * A standard Authentication/Authorization (AuthN/AuthZ) strategy is implemented to permit appropriate access to and compute on controlled access data
+   * (Eval only) CFDE activities are having a positive impact on CF DCCs’ ability to manage and use data
 
-- 1a. Novel scientific and clinical research is enabled through cross-data set discovery
-- 1b. A standard Authentication/Authorization (AuthN/AuthZ) strategy is implemented to permit appropriate access to and compute on controlled access data
-- 1c. (Eval only) CFDE activities are having a positive impact on CF DCCs’ ability to manage and use data
-
-### Goal 2: Enable the uptake, reuse, and addition of NIH data and tools from future, current, and ended programs
+2: **Enable the uptake, reuse, and addition of NIH data and tools from future, current, and ended programs**
   a. Data and metadata structure, descriptions, and organization are optimized so data can be found and combined across data sets
   b. Common standards, methods, tools, and processes are provided enabling data managers to load, update, maintain and version, and monitor data sets on the cloud
   c. Common tools and processes are provided to assess and improve FAIR-ness of data and other digital objects to optimize the query, retrieval, and use
