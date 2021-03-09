@@ -72,10 +72,11 @@ The text of a deliverable should be brief, but each needs to include the followi
 *   **Goal and Objective References:** What NIH Goal Reference(s) and NIH Objective Reference(s) does this deliverable contribute to? [Goal and Objective list](#program-goals-and-objectives)
 
 **Example Deliverable:**
-Internal Due Date: &lt;03/23/2021>
-NIH Due Date: &lt;03/30/2021>
-Milestone: 1.2.2.4
-POC: &lt;[@sherry-jenkins](https://github.com/sherry-jenkins)>
+
+Internal Due Date: <03/23/2021>  
+NIH Due Date: <03/30/2021>  
+Milestone: 1.2.2.4  
+POC: <@sherry-jenkins>
 *   Short description of deliverable: Establish mechanisms to ensure that metadata for the current and future LINCS datasets can be serialized into the CFDE C2M2. Write the scripts to convert current metadata schemas into frictionless C2M2. Identify asset types which overlap with other CF DCCs. The most reused LINCS data is the data collected via the L1000 assay, a low cost transcriptomics assay. We plan to develop a deep learning model that would make the L1000 data better align with RNA-seq data.
 *   Delivery persistence: The LINCS L1000 data will be provided in a format compatible with RNA-seq; Mapped metadata elements that match LINCS metadata element; Scripts to transform LINCS metadata to support ontologies and dictionaries used by other DCCs.
 *   Ownership: LINCS DCC
@@ -178,23 +179,23 @@ The four key goals of the CFDE are detailed below:
 - 1c. (Eval only) CFDE activities are having a positive impact on CF DCCs’ ability to manage and use data
 
 ### Goal 2: Enable the uptake, reuse, and addition of NIH data and tools from future, current, and ended programs
-  2a. Data and metadata structure, descriptions, and organization are optimized so data can be found and combined across data sets
-  2b. Common standards, methods, tools, and processes are provided enabling data managers to load, update, maintain and version, and monitor data sets on the cloud
-  2c. Common tools and processes are provided to assess and improve FAIR-ness of data and other digital objects to optimize the query, retrieval, and use
-  2d. A central, externally facing, scalable portal is provided, serving as the directory to all CF data sets and tools, FAIR-ness metrics, use cases, and the like
-  2e. CF DCCs and their users are engaged in the design of self-governed standards applicable to existing and future CF data programs
+  a. Data and metadata structure, descriptions, and organization are optimized so data can be found and combined across data sets
+  b. Common standards, methods, tools, and processes are provided enabling data managers to load, update, maintain and version, and monitor data sets on the cloud
+  c. Common tools and processes are provided to assess and improve FAIR-ness of data and other digital objects to optimize the query, retrieval, and use
+  d. A central, externally facing, scalable portal is provided, serving as the directory to all CF data sets and tools, FAIR-ness metrics, use cases, and the like
+  e. CF DCCs and their users are engaged in the design of self-governed standards applicable to existing and future CF data programs
 
 ### Goal 3: Support the storage, sharing, and sustainability of CF data sets
-    3a. CF data sets are stored and managed in cloud environments to increase availability and accessibility of key data sets
-    3b. CF Programs use the STRIDES agreements for storage and compute, leveraging
+-3a. CF data sets are stored and managed in cloud environments to increase availability and accessibility of key data sets
+-3b. CF Programs use the STRIDES agreements for storage and compute, leveraging
         pre-paid funding from the CF
-    3c. NIH retains ownership and oversight of data sets after programs have ended
-    3d. Practices and policies that can accommodate new CF programs are adopted
+-3c. NIH retains ownership and oversight of data sets after programs have ended
+-3d. Practices and policies that can accommodate new CF programs are adopted
 
 ### Goal 4: Provide training that maximizes a scientist’s ability to upload data and use CF data and other resources
-   4a. Training material is provided for researchers to access, analyze and understand the CF data sets and tools provided by CF Programs
-   4b. Use case scenarios are posted to the Data Ecosystem community
-   4c. A Data Ecosystem user guide and site documentation are created and accessible
+ 4a. Training material is provided for researchers to access, analyze and understand the CF data sets and tools provided by CF Programs
+ 4b. Use case scenarios are posted to the Data Ecosystem community
+ 4c. A Data Ecosystem user guide and site documentation are created and accessible
 
 
      
